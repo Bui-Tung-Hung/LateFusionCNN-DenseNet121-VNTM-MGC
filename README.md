@@ -1,1 +1,4 @@
-LateFusionCNN-DenseNet121-VNTM-MGC
+# LateFusionCNN-DenseNet121-VNTM-MGC
+Music Genre Classification for Vietnamese Traditional Music Dataset, using 2 models: Late Fusion CNN and DenseNet121
+Original dataset link: https://www.kaggle.com/datasets/homata123/vntm-for-building-model-5-genres/data
+The project is the submission for JCSSE 2024 Conference. Please do not reupload without permission
